@@ -1,0 +1,6 @@
+framework module Mozaic {
+  umbrella header "Mozaic-umbrella.h"
+
+  export *
+  module * { export * }
+}

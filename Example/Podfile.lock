@@ -1,0 +1,16 @@
+PODS:
+  - Mozaic (0.1.0)
+
+DEPENDENCIES:
+  - Mozaic (from `../`)
+
+EXTERNAL SOURCES:
+  Mozaic:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Mozaic: 42a1f39acf01fc6038a90091aa0a191fefd85521
+
+PODFILE CHECKSUM: 655d4e37e1c6868351bf7e54a49c79c0b9404d59
+
+COCOAPODS: 1.5.3
