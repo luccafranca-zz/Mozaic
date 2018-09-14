@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Mozaic_Example' do
+  pod 'Mozaic', :path => '../'
+
+  target 'Mozaic_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
